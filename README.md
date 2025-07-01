@@ -1,1 +1,1 @@
-![Character Description](./Character_Description1.png)
+![Character Description](./Character_Description.png)
