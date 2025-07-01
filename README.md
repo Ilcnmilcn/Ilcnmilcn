@@ -1,1 +1,3 @@
-![Character Description](./Character_Description.png)
+<p align="center">
+    <img src="./Character_Description.png" alt="Character Description" />
+</p>
