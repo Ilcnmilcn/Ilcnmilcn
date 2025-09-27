@@ -1,3 +1,3 @@
 <p align="center">
-    <img src="./Character_Description.png" alt="Character Description" />
+    <img src="./CharacterDescription.png" alt="Character Description" />
 </p>
